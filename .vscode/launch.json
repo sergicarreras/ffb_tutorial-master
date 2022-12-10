@@ -1,0 +1,29 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "name": "ffb_tutorial-master",
+            "cwd": "ffb_tutorial-master",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "ffb_tutorial-master (profile mode)",
+            "cwd": "ffb_tutorial-master",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "ffb_tutorial-master (release mode)",
+            "cwd": "ffb_tutorial-master",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
